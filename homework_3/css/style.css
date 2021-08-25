@@ -43,23 +43,23 @@
 }
 
 .circle_1 {
-    top: -22.5%;
-    right: -22.5%;
+    top: -25%;
+    right: -25%;
 }
 
 .circle_2 {
-    top: -22.5%;
-    left: -22.5%;
+    top: -25%;
+    left: -25%;
 }
 
 .circle_3 {
-    bottom: -22.5%;
-    left: -22.5%;
+    bottom: -25%;
+    left: -25%;
 }
 
 .circle_4 {
-    bottom: -22.5%;
-    right: -22.5%;
+    bottom: -25%;
+    right: -25%;
 }
 
 .wrapper_circle:hover {
